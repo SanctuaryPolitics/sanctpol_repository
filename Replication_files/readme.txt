@@ -1,0 +1,1 @@
+This folder comprises all the materials necessary to replicate the quantitative results, including figures and appendix materials, for the three constituent articles in the DPhil thesis "Sanctuary Politics."
